@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mvvm-v2</string>
+    <string name="str_load_data">Load Data</string>
+</resources>
