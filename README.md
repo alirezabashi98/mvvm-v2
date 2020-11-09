@@ -1,9 +1,6 @@
 # mvvm-v2
-چک کردن افلاین و انلاین بودن
 Check offline and offline
 
-
-## کتابخونه های استفاده شده
 ## Used libraries
 
 [RxAndroid: Reactive Extensions for Android](https://github.com/ReactiveX/RxAndroid)
