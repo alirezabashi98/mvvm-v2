@@ -6,11 +6,11 @@ Check offline and offline
 ## کتابخونه های استفاده شده
 ## Used libraries
 
-    [RxAndroid: Reactive Extensions for Android](https://github.com/ReactiveX/RxAndroid)
+[RxAndroid: Reactive Extensions for Android](https://github.com/ReactiveX/RxAndroid)
     
-    [lifecycle extensions](https://developer.android.com/jetpack/androidx/releases/lifecycle)
+[lifecycle extensions](https://developer.android.com/jetpack/androidx/releases/lifecycle)
     
-    [Koin for Android & Koin Android ViewModel features](https://github.com/InsertKoinIO/koin)
+[Koin for Android & Koin Android ViewModel features](https://github.com/InsertKoinIO/koin)
 
 ```
 
