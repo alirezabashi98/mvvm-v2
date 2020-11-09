@@ -43,7 +43,7 @@ Check offline and offline
 
 [دانلود برنامه](https://github.com/alirezabashi98/mvvm-v2/raw/master/app-debug.apk)
 
-## <dir="rtl">کتابخونه های استفاده شده</dir>
+## <div dir="rtl">کتابخونه های استفاده شده</div>
 
 [RxAndroid: Reactive Extensions for Android](https://github.com/ReactiveX/RxAndroid)
     
