@@ -1,6 +1,8 @@
 # mvvm-v2
 Check offline and offline
 
+[download demo app](https://github.com/alirezabashi98/mvvm-v2/raw/master/app-debug.apk)
+
 ## Used libraries
 
 [RxAndroid: Reactive Extensions for Android](https://github.com/ReactiveX/RxAndroid)
@@ -38,6 +40,8 @@ Check offline and offline
 
 
 چک کردن افلاین و انلاین بودن
+
+[نسخه ازمایشی برنامه](https://github.com/alirezabashi98/mvvm-v2/raw/master/app-debug.apk)
 
 ## کتابخونه های استفاده شده
 
