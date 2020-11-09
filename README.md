@@ -40,10 +40,10 @@ Check offline and offline
 
 # <div dir="rtl"> معماری mvvm-2
 
-چک کردن افلاین و انلاین بودن
+<div dir="rtl"> چک کردن افلاین و انلاین بودن
 
-[دانلود برنامه](https://github.com/alirezabashi98/mvvm-v2/raw/master/app-debug.apk)
-</div>
+<a dir="rtl" href="https://github.com/alirezabashi98/mvvm-v2/raw/master/app-debug.apk">دانلود برنامه</a>
+
 
 ## <div dir="rtl">کتابخونه های استفاده شده</div>
 
