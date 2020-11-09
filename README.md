@@ -38,7 +38,7 @@ Check offline and offline
 
 
 
-# <div dir="rtl"> معماری mvvm-2 </div>
+# <div dir="rtl"> معماری mvvm-v2 </div>
 
 <div dir="rtl"> چک کردن افلاین و انلاین بودن </div>
 
