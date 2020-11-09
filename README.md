@@ -6,8 +6,10 @@ Check offline and offline
 ## کتابخونه های استفاده شده
 ## Used libraries
 
-[RxAndroid: Reactive Extensions for Android](https://github.com/ReactiveX/RxAndroid)
+    [RxAndroid: Reactive Extensions for Android](https://github.com/ReactiveX/RxAndroid)
+    
     [lifecycle extensions](https://developer.android.com/jetpack/androidx/releases/lifecycle)
+    
     [Koin for Android & Koin Android ViewModel features](https://github.com/InsertKoinIO/koin)
 
 ```
@@ -28,7 +30,7 @@ Check offline and offline
     // Annotation processor
     kapt "androidx.lifecycle:lifecycle-compiler:$lifecycle_version"
 
-//    Koin for Android & Koin Android ViewModel features
+    // Koin for Android & Koin Android ViewModel features
     def koin_version = "1.0.2"
 
     implementation "org.koin:koin-android:$koin_version"
