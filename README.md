@@ -1,21 +1,24 @@
 # mvvm-v2
 چک کردن افلاین و انلاین بودن
+Check offline and offline
+
+
+## کتابخونه های استفاده شده
+## Used libraries
 
 ```
 
-//    RxAndroid: Reactive Extensions for Android
-//    https://github.com/ReactiveX/RxAndroid
+    [RxAndroid: Reactive Extensions for Android](https://github.com/ReactiveX/RxAndroid)
 
     implementation 'io.reactivex.rxjava2:rxandroid:2.1.1'
     implementation 'io.reactivex.rxjava2:rxjava:2.2.8'
 
-//    lifecycle extensions
-//    https://developer.android.com/jetpack/androidx/releases/lifecycle
+    [lifecycle extensions](https://developer.android.com/jetpack/androidx/releases/lifecycle)
     def lifecycle_version = "2.2.0"
 
-    // ViewModel
+    ###ViewModel
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_version"
-    // LiveData
+    ###LiveData
     implementation "androidx.lifecycle:lifecycle-livedata-ktx:$lifecycle_version"
 
     // Annotation processor
